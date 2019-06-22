@@ -1,0 +1,1 @@
+# locapy-front2.0
